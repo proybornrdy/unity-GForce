@@ -1,0 +1,4 @@
+this is test
+from command mode to insert mode in vim : a/A/i/I/o/O
+from insert mode to comand mode enter esc
+exiting command: :wq =save and quit :q! =force quit :q =quit without save 
